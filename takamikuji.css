@@ -1,0 +1,52 @@
+#top {
+	text-align: center;
+	font-size: 70px;
+	padding: 5px;
+}
+
+#left {
+	float: left;
+	width: auto;
+}
+
+#content {
+	float: left;
+	width: 80%;
+	text-align: center;
+}
+
+#bottom {
+	clear: both;
+	padding: 5px;
+	text-align: center;
+}
+
+#left table{
+	font-size: 28px;
+}
+
+#roulette{
+	font-size: 515px;
+}
+
+input.checkbox + label {
+  color:#000000;
+}
+ 
+input.checkbox:checked + label {
+  color:#eeeeee;
+}
+
+#list {
+	float: right;
+	width: 100%;
+	text-align: center;
+}
+
+#list table {
+	 margin-left: auto;
+ 	margin-right: auto;
+	text-align: center;
+	font-size: 25px;
+	float: center;
+}
